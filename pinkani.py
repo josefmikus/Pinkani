@@ -1,3 +1,5 @@
+#toto je prvni komentar v gitu yadna velka zmena v programu
+
 import pyglet
 from pyglet import gl
 from pyglet.window import key
